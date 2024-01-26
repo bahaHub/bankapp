@@ -1,7 +1,7 @@
 **Bank Aplication Web Service**
 
 **Project Overview:**
-This repository contains a simple bank transaction application developed using Spring Boot for the backend and React JS for the frontend. The application allows users to register, create bank accounts, and perform basic banking transactions such as deposit, withdraw, and close accounts.
+This repository contains a simple bank transaction application developed in the form of web service. The application allows users to register, create bank accounts, and perform basic banking transactions such as deposit, withdraw, and close accounts.
 
 **Features:**
 1. User Registration: Users can register with the application by providing their basic information.
